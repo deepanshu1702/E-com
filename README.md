@@ -1,3 +1,3 @@
-# Ecommerce-Website
+Ecommerce-Website
 This is a ecommerce website made using nodejs and mongodb atlas .
-Created by Abhishek Tomar for Nagarro Summer Internship 2022
+Created by Deepanshu for Nagarro Summer Internship 2022...
